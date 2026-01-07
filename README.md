@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## 🚀 Live Demo
 
-- [Live Site URL]()
+- [Live Site URL](https://ruqiash12-oss.github.io/testimonials-grid-section/)
 
 ## 🛠 Built With
 
