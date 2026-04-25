@@ -140,7 +140,7 @@ p{
     font-size: 12px;
     box-shadow: 0px 5px 10px 0px rgba(216,226,238,.75);
 }
-@media and screen (min-width:400px)
+@media(max-width:400px)
 {
 .main{
 grid-template-columns: 1fr;
