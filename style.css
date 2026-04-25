@@ -144,12 +144,10 @@ p{
 {
 .main{
 grid-template-columns: 1fr;
-grid-template-areas :"
-a
-b
-c
-d
-e
-";
+grid-template-areas :"a"
+"b"
+"c"
+"d"
+"e";
 }
 }
