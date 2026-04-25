@@ -143,6 +143,7 @@ p{
 @media and screen (min-width:400px)
 {
 .main{
+grid-template-columns: 1fr;
 grid-template-areas :"
 a
 b
