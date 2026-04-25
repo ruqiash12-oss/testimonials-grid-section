@@ -40,7 +40,7 @@ body{
     grid-area: e;
 }
 }
-@media (max-width:300px){
+@media (max-width:500px){
     .main{
         grid-template-columns: 1fr;
         grid-template-areas: "a" "b" "c" "d" "e";
@@ -139,15 +139,4 @@ p{
     padding: 29px 25px;
     font-size: 12px;
     box-shadow: 0px 5px 10px 0px rgba(216,226,238,.75);
-}
-@media(max-width:400px)
-{
-.main{
-grid-template-columns: 1fr;
-grid-template-areas :"a"
-"b"
-"c"
-"d"
-"e";
-}
 }
